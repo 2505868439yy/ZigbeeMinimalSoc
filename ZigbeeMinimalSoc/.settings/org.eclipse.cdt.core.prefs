@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183\ -\ EFR32MG1B232F256GM48/PATH/delimiter=;
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183\ -\ EFR32MG1B232F256GM48/PATH/operation=prepend
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183\ -\ EFR32MG1B232F256GM48/PATH/value=D\:\\SiliconLabs\\SimplicityStudio\\v4\\support\\common\\build\\msys\\1.0\\bin
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183\ -\ EFR32MG1B232F256GM48/append=true
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183\ -\ EFR32MG1B232F256GM48/appendContributed=true
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183/PATH/delimiter=;
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183/PATH/operation=prepend
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183/PATH/value=D\:\\SiliconLabs\\SimplicityStudio\\v4\\support\\common\\build\\msys\\1.0\\bin
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183/append=true
+environment/project/com.silabs.ss.framework.project.toolchain.core.default\#com.silabs.ss.tool.ide.arm.toolchain.iar\:8.20.1.14183/appendContributed=true
